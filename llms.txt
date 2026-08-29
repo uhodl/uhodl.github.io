@@ -1,0 +1,9 @@
+# U-HODL
+
+Archived product page for U-HODL, a self-custody hardware wallet startup that was expected to launch Kickstarter campaign in Q2 Y2021, however Covid outbreak lead to severe delay. Product reached preproduction prototype stage and was planning to run a Kickstarter campaign with first butch. Developed by https://x.com/art_k42 and team including architects and security developers from Underwriters Laboratories and Apple.
+
+## Pages
+
+- [Homepage](https://uhodl.github.io/): Original visual product page.
+- [Homepage as Markdown](https://uhodl.github.io/index.md): Concise, machine-readable summary.
+- Original domains was uhodl.me and uhold.io
